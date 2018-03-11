@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to MY Pages
 
-You can use the [editor on GitHub](https://github.com/hashHan/hashHan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Haeseong Han. Please visit my sites for more infomation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Pages
 
-```markdown
-Syntax highlighted code block
+[CURRICULUM VITAE](https://cvhaeseong.firebaseapp.com/)
 
-# Header 1
-## Header 2
-### Header 3
+[BLOG](https://bloghaeseong.firebaseapp.com/)
 
-- Bulleted
-- List
+[GitHub repo](https://github.com/hashHan) 
 
-1. Numbered
-2. List
+[LINKEDIN](https://www.linkedin.com/in/hashHan/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact Infomation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Gmail: haeseong.han@gmail.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hashHan/hashHan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Don't forget `.` between first and last names.
