@@ -18,5 +18,3 @@ I'm Haeseong Han. Please visit my sites for more infomation.
 ### Contact Infomation
 
 Gmail: haeseong.han@gmail.com
-
-Don't forget `.` between first and last names.
