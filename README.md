@@ -6,9 +6,7 @@ I'm Haeseong Han. Please visit my sites for more infomation.
 
 ### My Pages
 
-[CURRICULUM VITAE](https://cvhaeseong.firebaseapp.com/)
-
-[BLOG](https://bloghaeseong.firebaseapp.com/)
+[CURRICULUM VITAE](https://han-cv-2019.herokuapp.com/)
 
 [GitHub repo](https://github.com/hashHan) 
 
